@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungse8609&count_bg=%237D7D7D&title_bg=%23393434&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![jungse8609's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungse8609&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungsesco8609)](https://solved.ac/jungsesco8609/)
