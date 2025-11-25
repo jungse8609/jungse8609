@@ -1,5 +1,3 @@
-![jungse8609's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungse8609&show_icons=true&theme=dark#gh-dark-mode-only)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungsesco8609)](https://solved.ac/jungsesco8609/)
 
 ## Platforms&Languages
