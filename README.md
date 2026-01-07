@@ -4,11 +4,8 @@
 
 ## Platforms&Languages
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
-![Unreal](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![C++](https://img.shields.io/badge/C%23-000000.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
-
-
 
 
 <!--
