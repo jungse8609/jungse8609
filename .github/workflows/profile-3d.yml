@@ -17,11 +17,11 @@ jobs
       - uses yoshi389111github-profile-3d-contrib@latest
         env
           GITHUB_TOKEN ${{ secrets.GITHUB_TOKEN }}
-          USERNAME ${{ github.repository_owner }}
+          USERNAME ${{ github.jungse8609 }}
       - name Commit & Push
         run 
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name jungse8609
+          git config user.email jungse8609@gmail.com
           git add -A .
           if git commit -m generated; then
             git push
