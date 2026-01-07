@@ -16,7 +16,7 @@ jobs
       - uses actionscheckout@v5
       - uses yoshi389111github-profile-3d-contrib@latest
         env
-          GITHUB_TOKEN ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN ${{ secrets.SECRET_TOKEN }}
           USERNAME ${{ github.jungse8609 }}
       - name Commit & Push
         run 
