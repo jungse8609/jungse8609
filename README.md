@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungsesco8609)](https://solved.ac/jungsesco8609/)
 
